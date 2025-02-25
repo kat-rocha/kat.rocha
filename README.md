@@ -17,3 +17,4 @@ Languages & Tools
 Data Visualization & BI: Tableau (Desktop, Server, Prep)
 Programming & Databases: SQL, Python (NumPy, Pandas), MySQL
 Cloud & ETL: AWS, Workflow Automation, Enterprise Data Pipelines
+
